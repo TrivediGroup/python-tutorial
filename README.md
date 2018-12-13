@@ -9,3 +9,11 @@
   - Numpy & Matplotlib basics
   - Example: 1D Tight binding model
 
+## Session 2
+- 2018/12/13 Thursday
+- [Jupyter Notebook](Session2.ipynb)
+- Topics
+  - Complex numbers
+  - Higher order functions
+  - Example: graphene band structure
+  
